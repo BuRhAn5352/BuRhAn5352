@@ -16,9 +16,9 @@
 
 ## 🦇 The Origin Story
 
-Every Batman needs a cave. Mine has a laptop, a Groq API key, and way too many open tabs.
+Every Batman needs a cave. Mine has a laptop and way too many open tabs.
 
-CS final year. I build ML systems, ship LLM-powered products, and co-founded **Voyaige** — an AI agency where I own everything AI and backend. Alfred handles the gadgets. I handle the models.
+I build AI/ML systems, ship LLM-powered products, and co-founded **Voyaige** — an AI agency where I own everything AI and backend. Alfred handles the gadgets. I handle the models.
 
 No cape. No car. But my FastAPI response times are pretty heroic.
 
@@ -27,11 +27,9 @@ Outside the cave — cricket, chess, writing poetry that hits harder than most l
 ```python
 burhan = {
     "alias"       : "The Dark Dev",
-    "base"        : "Gandhinagar University (final year)",
     "agency"      : "Voyaige — AI Agents, Automation & Web Platforms",
     "weapons"     : ["ML pipelines", "LLM products", "FastAPI", "caffeine"],
     "interests"   : ["AI/ML", "NLP", "Agentic systems", "cricket", "chess", "poetry"],
-    "targets"     : ["Bangalore", "Hyderabad", "Dubai (the long game)"],
     "status"      : "Seeking villains to defeat. Also open to AI/ML roles. 🦇",
     "weakness"    : "Python version conflicts. Every. Single. Time."
 }
@@ -39,7 +37,7 @@ burhan = {
 
 ---
 
-## 🦇 The Rogue's Gallery *(aka my projects)*
+## 🦇 The Rogue's Gallery
 
 Even Batman needs a list of enemies he's already handled. Here's mine.
 
@@ -62,21 +60,6 @@ AI food safety assistant that actually knows the difference between Jain and veg
 - Permanent user profiles, 9 allergen tracking, Indian diet modes (Jain, vegan, diabetic + more)
 - Menu scan, safe dish suggestions, user feedback system
 - Deployed on Render as Background Worker. No sidekick needed.
-
----
-
-### 📊 AI Insight Hub *(The Oracle of Sales Data)*
-FastAPI platform that takes raw sales data and returns ML insights + forecasts. Upload CSV → get intelligence. Bruce Wayne has Lucius Fox. You have this.
-
----
-
-### 🛒 Customer Segmentation *(KMeans, Not Batarangs)*
-Unsupervised ML project. Full EDA, KMeans clustering, clean cluster profiling. Sometimes the best weapon is knowing exactly who you're dealing with.
-
----
-
-### ✈️ Flight Price Prediction *(Because Even Batman Needs to Travel)*
-Benchmarked 4 ML algorithms for airfare prediction. Why guess when you can model. Spoiler: one algorithm won. It wasn't the fancy one.
 
 ---
 
@@ -163,7 +146,7 @@ If you need AI built properly, you know where to find me. *(Hint: not the Batpho
 
 I write poetry. Not the soft kind — the kind that makes you reread the last line twice and feel something you weren't ready for.
 
-I watch cricket like it's a second religion and play chess like I have something to prove — because I do.
+I play cricket and chess like I have something to prove — because I do.
 
 The best engineers feel things deeply. It's why the work has weight.
 
@@ -184,21 +167,7 @@ The best engineers feel things deeply. It's why the work has weight.
 
 </div>
 
----
-
-## 🎯 Next Mission Briefing
-
-- [ ] Voyaige's first paying client
-- [ ] LangChain → LangGraph → full agentic systems
-- [ ] AI/ML role — Bangalore / Hyderabad / Dubai
-- [ ] Publish the model collapse paper
-- [ ] Keep shipping. Keep writing. Stay dark. 🦇
-
----
-
 <div align="center">
-
-*"I'm not the hero this README deserves. But I'm the one it needs right now."*
 
 **[LinkedIn](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/) · [Voyaige](https://thevoyaige.com) · [GitHub](https://github.com/BuRhAn5352)**
 
