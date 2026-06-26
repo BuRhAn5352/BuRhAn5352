@@ -16,11 +16,11 @@
 
 ## who i am
 
-I build ML systems and LLM-powered products. I co-founded **Voyaige** — an AI agency where I own everything AI and backend.
+I build ML systems and LLM-powered products. I co-founded **Voyaige** - an AI agency where I own everything AI and backend.
 
-Not much else to say. The work speaks.
+The work speaks for itself. I just make sure it's worth listening to.
 
-Outside of code — cricket, chess, and writing poetry that hits harder than most loss functions I've optimised.
+Outside of code - cricket, chess, and writing poetry that hits harder than most loss functions I've optimised.
 
 ```python
 burhan = {
@@ -114,23 +114,22 @@ Proposed the **Generational Contamination Protocol (GCP)**, **Collapse Rate Inde
 
 I keep files on how AI eats itself. Most people haven't thought seriously about this problem yet.
 
-The paper is coming.
-
+Published in IRJMETS (International Research Journal of Modernization in Engineering Technology and Science) — Volume 08, Issue 05, May 2026.
 > Cites: Shumailov et al. (Nature 2024), Gerstgrasser et al. (COLM 2024), Schaeffer et al. (arXiv 2025)
 
 ---
 
 ## 🦇 Voyaige
 
-I co-founded **[Voyaige](https://thevoyaige.com)** — an AI agency building:
+I co-founded **[Voyaige](https://thevoyaige.com)** - an AI agency building:
 
-- 🤖 **AI Agents** — LLM-powered agents for real business workflows
-- ⚡ **Automation Pipelines** — end-to-end process automation that actually works
-- 🌐 **Web Platforms** — AI-integrated full-stack products
+- 🤖 **AI Agents** - LLM-powered agents for real business workflows
+- ⚡ **Automation Pipelines** - end-to-end process automation that actually works
+- 🌐 **Web Platforms** - AI-integrated full-stack products
 
 Six real case studies. Real deployments. No demo theatre.
 
-If you need AI built properly — you know where to find me.
+If you need AI built properly - you know where to find me.
 
 ---
 
@@ -140,8 +139,7 @@ I write poetry. Not the soft kind — the kind that makes you reread the last li
 
 Cricket and chess. Always.
 
-The best engineers feel things deeply. It's why the work has weight.
-
+I think the best engineers feel things deeply. Makes the work mean something.
 ---
 
 ## 📊 bat-stats
