@@ -147,6 +147,6 @@ I think the best engineers are the ones who feel things deeply — it's why the 
 
 *"Build things that think. Feel things that matter."*
 
-**[LinkedIn](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/) · [Voyaige](https://thevoyaige.com) · [GitHub](https://github.com/BuRhAn5352)**
+**[LinkedIn](https://www.linkedin.com/in/burhan-contractor-0b6686258/) · [Voyaige](https://thevoyaige.com) · [GitHub](https://github.com/BuRhAn5352)**
 
 </div>
