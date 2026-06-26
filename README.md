@@ -1,159 +1,158 @@
 <div align="center">
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Burhan+%F0%9F%91%8B;AI+%2F+ML+Engineer+in+the+making;Building+things+that+think.;Co-founder+%40+Voyaige" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BuRhAn5352)
-[![Voyaige](https://img.shields.io/badge/Voyaige-Agency-6E40C9?style=for-the-badge&logoColor=white)](https://thevoyaige.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Burhan.+AI+%2F+ML+Engineer.;I+build+things+that+think.;Co-founder+%40+Voyaige.;Yes%2C+I+also+write+poetry." alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## who am i
+
+CS final year. I build ML systems, ship LLM-powered products, and co-founded an AI agency called **Voyaige** — where I own everything AI and backend.
+
+Not just notebooks. Things that actually run in production.
+
+Outside of code — cricket, chess, and writing poetry that hits harder than most ML models I've trained.
 
 ```python
 burhan = {
-    "role"        : "Final-Year CS Student → AI/ML Engineer",
-    "university"  : "Gandhinagar University",
-    "co_founder"  : "Voyaige — AI Agents, Automation & Web Platforms",
-    "interests"   : ["Machine Learning", "NLP", "Agentic AI", "MLOps"],
-    "targets"     : ["Bangalore", "Hyderabad", "Dubai (long-term)"],
-    "status"      : "Open to AI/ML, Data Science & SWE roles 🚀"
+    "building"    : "Voyaige — AI Agents, Automation & Web Platforms",
+    "good_at"     : ["ML pipelines", "LLM products", "FastAPI backends", "breaking prod at 2am"],
+    "interests"   : ["AI/ML", "NLP", "Agentic systems", "cricket", "chess", "poetry"],
+    "status"      : "Open to AI/ML, Data Science & SWE roles 🚀",
+    "fun_fact"    : "I debug faster when I'm annoyed"
 }
 ```
 
-I'm a CS final-year building at the intersection of **ML pipelines**, **LLM-powered products**, and **backend systems**. I co-founded **Voyaige**, an AI agency where I own all things AI and backend — from embedding models to production deployments.
+---
 
-My work isn't just notebooks — I ship things that run.
+## what i've built
+
+### 🎯 Talent Intelligence Platform *(Capstone)*
+Full-stack AI web app for the Indian job market. Built for HR teams and job seekers — bulk JD upload, candidate clustering, resume analysis, salary data.
+
+- **ML:** TF-IDF + Logistic Regression (97% acc), KMeans (K=10), LDA topic modelling, Decision Tree
+- **Stack:** FastAPI + Jinja2, pdfplumber, PyMuPDF, pytesseract (OCR fallback), Adzuna salary API
+- **Shipped:** 9 pkl artifacts, 6-module codebase, deployed on Render
+- Spent more hours fixing Python version conflicts than sleeping. Worth it.
 
 ---
 
-## 🏗️ Featured Projects
-
-### 🎯 [Talent Intelligence Platform](https://github.com/BuRhAn5352/Talent_intelligence_platform)
-> Full-stack AI web app for the Indian job market — capstone project.
-
-- **Stack:** FastAPI + Jinja2, scikit-learn, pdfplumber, PyMuPDF, pytesseract
-- **ML:** TF-IDF + Logistic Regression (97% acc), KMeans (K=10), LDA topic modelling (10 topics), Decision Tree classifier
-- **Features:** Bulk JD upload, candidate ranking by cluster, OCR fallback for PDF extraction, Adzuna salary API integration, niche domain override for 10 career fields, personalised resume suggestions
-- **Deployed on Render** — 9 pkl artifacts, 6-module codebase
-
----
-
-### 🍽️ [SafeFoodonPlate — Telegram Food Safety Bot](https://github.com/BuRhAn5352/SafeFoodonPlate)
-> AI-powered food safety assistant for Indian dietary profiles.
+### 🍽️ SafeFoodonPlate — Telegram Food Safety Bot
+AI food safety assistant that actually knows the difference between Jain and vegetarian (yes, it matters).
 
 - **Stack:** Python, python-telegram-bot, Groq API (Llama 3.3 70B), SQLite
-- **Features:** Permanent user profiles, 9 allergen tracking, Indian diet modes (Jain, vegan, diabetic, etc.), menu scan, safe dish suggestions, feedback system
-- **Deployed on Render** as Background Worker — Procfile + runtime.txt setup
+- Permanent user profiles, 9 allergen tracking, Indian diet modes (Jain, vegan, diabetic, etc.)
+- Menu scan, safe dish suggestions, feedback loop
+- Deployed on Render as a Background Worker
 
 ---
 
-### 📊 [AI Insight Hub](https://github.com/BuRhAn5352/AI-Insight-Hub)
-> FastAPI platform automating business intelligence from raw sales data.
-
-- Automated ML insights + predictive forecasting pipeline
-- Upload CSV → get structured predictions and segment analysis
+### 📊 AI Insight Hub
+FastAPI platform that takes raw sales data and spits out ML insights + forecasts. Upload CSV, get intelligence.
 
 ---
 
-### 🛒 [Customer Segmentation — Unsupervised ML](https://github.com/BuRhAn5352/Customer-Segmentation-using-Unsupervised-Machine-Learning)
-> KMeans-based customer segmentation with full EDA and cluster profiling.
+### 🛒 Customer Segmentation — Unsupervised ML
+KMeans-based segmentation with full EDA and cluster profiling. Clean work, clean code.
 
 ---
 
-### ✈️ [Flight Price Prediction](https://github.com/BuRhAn5352/FLIGHT-PRICE-PREDICTION-ML)
-> Benchmarked 4 ML algorithms to find the best-performing model for airfare prediction.
+### ✈️ Flight Price Prediction
+Benchmarked 4 ML algorithms head-to-head for airfare prediction. Because why guess when you can model.
 
 ---
 
-### 🤖 Dual AI Assistant Comparison *(ollive.ai application project)*
-> Side-by-side evaluation of HuggingFace (Qwen2.5) vs Claude Sonnet — multi-turn memory, LLM-as-judge scoring, 30-prompt eval suite across factual/adversarial/bias categories. Built with Gradio + HuggingFace Serverless Inference API.
+### 🤖 Dual AI Assistant Comparison *(built for a job application — they didn't deserve it)*
+Side-by-side eval of HuggingFace (Qwen2.5) vs Claude Sonnet. Multi-turn memory, LLM-as-judge scoring, 30-prompt eval suite across factual / adversarial / bias categories.
+
+Stack: Gradio + HuggingFace Serverless Inference API. Built it in one go.
 
 ---
 
-## 🧰 Tech Stack
+## stack
 
 **ML / AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logoColor=white)
-![Gensim](https://img.shields.io/badge/Gensim-NLP-blue?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-🦜-1C3C3C?style=flat-square)
+![Gensim](https://img.shields.io/badge/Gensim-NLP-4B8BBE?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 
-**LLM & APIs**
+**LLMs & APIs**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-API-orange?style=flat-square)
 ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-6E40C9?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**Backend & Deployment**
+**Backend & Infra**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-
-**Data & Viz**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
 ---
 
-## 📐 ML Expertise Breakdown
+## ml breakdown
 
-| Domain | Algorithms / Techniques |
+| Area | What I actually know |
 |---|---|
-| **Supervised Learning** | Logistic & Linear Regression, SVM, Decision Trees, Random Forest, XGBoost, LightGBM, cross-validation |
-| **Unsupervised Learning** | KMeans, PCA, DBSCAN, Hierarchical Clustering, Anomaly Detection |
+| **Supervised** | Logistic & Linear Regression, SVM, Decision Trees, Random Forest, XGBoost, LightGBM, cross-validation |
+| **Unsupervised** | KMeans, PCA, DBSCAN, Hierarchical Clustering, Anomaly Detection |
 | **NLP** | TF-IDF, BOW, Word2Vec, Gensim, LDA Topic Modelling, Sentiment Analysis |
-| **LLM Engineering** | Prompt engineering, Groq/OpenAI API, RAG basics, LLM-as-judge eval |
-| **MLOps** | Model serialisation (pkl), Render deployment, FastAPI serving, version conflict resolution |
-| **SQL** | LeetCode Top 50, joins, aggregations, window functions |
+| **LLM Engineering** | Prompt engineering, Groq/OpenAI API, RAG, LLM-as-judge eval pipelines |
+| **MLOps** | Model serialisation, Render deployment, FastAPI serving, pkl versioning |
+| **SQL** | Joins, aggregations, window functions, LeetCode Top 50 |
 
 ---
 
-## 📚 Research
+## research
 
-**Domain-Differential Model Collapse** *(Academic Paper)*
-Proposed the **Generational Contamination Protocol (GCP)**, **Collapse Rate Index (CRI)**, and **Synthetic Provenance Score (SPS)** — a framework for measuring and monitoring AI model degradation in synthetic-data training loops. Targeted for European master's applications.
+**Domain-Differential Model Collapse**
+
+Wrote a paper proposing the **Generational Contamination Protocol (GCP)**, **Collapse Rate Index (CRI)**, and **Synthetic Provenance Score (SPS)** — a framework for tracking AI model degradation when trained on synthetic data loops.
+
+Most people haven't thought about this problem properly yet. I have.
 
 > Cites: Shumailov et al. (Nature 2024), Gerstgrasser et al. (COLM 2024), Schaeffer et al. (arXiv 2025)
 
 ---
 
-## 🚀 Voyaige — AI Agency
+## voyaige
 
-I co-founded **[Voyaige](https://thevoyaige.com)** — an agency delivering:
+I co-founded **Voyaige** — an AI agency. We build:
 
-- 🤖 **AI Agents** — custom LLM-powered agents for business workflows
-- ⚡ **Automation Pipelines** — end-to-end data and process automation
+- 🤖 **AI Agents** — LLM-powered agents for real business workflows
+- ⚡ **Automation Pipelines** — end-to-end process automation
 - 🌐 **Web Platforms** — AI-integrated full-stack products
 
-Real case studies. Real deployments. DM or check the site.
+Six real case studies. Real clients. If you need AI built, you know where to find me.
+
+**[thevoyaige.com](https://thevoyaige.com)**
 
 ---
 
-## 📈 GitHub Stats
+## a side of me you didn't ask for
+
+I write poetry. Not the soft kind — the kind that makes you reread the last line twice.  
+I watch cricket like it's religion and play chess like I have something to prove.  
+I think the best engineers are the ones who feel things deeply — it's why the work has weight.
+
+---
+
+## stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=BuRhAn5352&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuRhAn5352&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BuRhAn5352&theme=tokyonight&hide_border=true)
 
@@ -161,20 +160,20 @@ Real case studies. Real deployments. DM or check the site.
 
 ---
 
-## 🎯 2026 Focus
+## what's next
 
-- [ ] Ship Voyaige's first paying client project
-- [ ] Master LangChain → LangGraph → Agentic frameworks
-- [ ] Complete AI/ML Engineer learning roadmap (30 sequential steps)
-- [ ] Land AI/ML or Data Science role — Bangalore / Hyderabad / Dubai
-- [ ] Publish the Domain-Differential Model Collapse paper
+- [ ] Voyaige's first paying client
+- [ ] LangChain → LangGraph → full agentic systems
+- [ ] AI/ML role — Bangalore / Hyderabad / Dubai
+- [ ] Publish the model collapse paper
+- [ ] Keep shipping. keep writing.
 
 ---
 
 <div align="center">
 
-*"Build things that think. Ship things that work."*
+*"Build things that think. Feel things that matter."*
 
-**Let's connect →** [LinkedIn](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/) · [Voyaige](https://thevoyaige.com)
+**[LinkedIn](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/) · [Voyaige](https://thevoyaige.com) · [GitHub](https://github.com/BuRhAn5352)**
 
 </div>
