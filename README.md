@@ -58,7 +58,7 @@ AI food safety assistant that actually understands Indian dietary needs — Jain
 ---
 
 ### 🤖 Dual AI Assistant Comparison
-HuggingFace (Qwen2.5) vs Claude Sonnet — multi-turn memory, LLM-as-judge scoring, 30-prompt eval suite across factual / adversarial / bias categories.
+HuggingFace (Qwen2.5) vs Claude Sonnet - multi-turn memory, LLM-as-judge scoring, 30-prompt eval suite across factual / adversarial / bias categories.
 
 Most people send a CV to job applications. I sent a full evaluation framework.
 *(They still didn't deserve it.)*
