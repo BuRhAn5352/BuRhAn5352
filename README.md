@@ -28,7 +28,7 @@ burhan = {
 
 ## what i've built
 
-### 🎯 Talent Intelligence Platform *(Capstone)*
+### 🎯 Talent Intelligence Platform
 Full-stack AI web app for the Indian job market. Built for HR teams and job seekers — bulk JD upload, candidate clustering, resume analysis, salary data.
 
 - **ML:** TF-IDF + Logistic Regression (97% acc), KMeans (K=10), LDA topic modelling, Decision Tree
