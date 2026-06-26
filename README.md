@@ -37,7 +37,7 @@ burhan = {
 
 ## what i've built
 
-### 🎯 Talent Intelligence Platform *(Capstone)*
+### 🎯 Talent Intelligence Platform 
 Full-stack AI web app for the Indian job market. HR teams get bulk JD upload + candidate clustering. Job seekers get resume analysis + salary data.
 
 - **ML:** TF-IDF + Logistic Regression (97% acc), KMeans (K=10), LDA topic modelling, Decision Tree classifier
@@ -47,7 +47,7 @@ Full-stack AI web app for the Indian job market. HR teams get bulk JD upload + c
 
 ---
 
-### 🍽️ SafeFoodonPlate — Telegram Food Safety Bot
+### 🍽️ SafeFoodonPlate - Telegram Food Safety Bot
 AI food safety assistant that actually understands Indian dietary needs — Jain rules, allergens, diabetic profiles, the works.
 
 - **Stack:** Python, python-telegram-bot, Groq API (Llama 3.3 70B), SQLite
