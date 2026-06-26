@@ -48,11 +48,6 @@ AI food safety assistant that actually knows the difference between Jain and veg
 
 ---
 
-### 📊 AI Insight Hub
-FastAPI platform that takes raw sales data and spits out ML insights + forecasts. Upload CSV, get intelligence.
-
----
-
 ### 🤖 Dual AI Assistant Comparison *(built for a job application — they didn't deserve it)*
 Side-by-side eval of HuggingFace (Qwen2.5) vs Claude Sonnet. Multi-turn memory, LLM-as-judge scoring, 30-prompt eval suite across factual / adversarial / bias categories.
 
