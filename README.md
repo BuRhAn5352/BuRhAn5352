@@ -1,61 +1,94 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Burhan.+AI+%2F+ML+Engineer.;I+build+things+that+think.;Co-founder+%40+Voyaige.;Yes%2C+I+also+write+poetry." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=I'm+Burhan.;I+don't+have+a+Batcave.;I+have+a+GitHub.;Close+enough." alt="Typing SVG" />
+
+<br/>
+
+> *"It's not who I am underneath, but what I deploy that defines me."*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BuRhAn5352)
+[![Voyaige](https://img.shields.io/badge/Voyaige-Agency-6E40C9?style=for-the-badge&logoColor=white)](https://thevoyaige.com)
 
 </div>
 
 ---
 
-## who am i
+## 🦇 The Origin Story
 
-I build AI/ML systems, ship LLM-powered products, and co-founded an AI agency called **Voyaige** — where I own everything AI and backend.
+Every Batman needs a cave. Mine has a laptop, a Groq API key, and way too many open tabs.
 
-Not just notebooks. Things that actually run in production.
+CS final year. I build ML systems, ship LLM-powered products, and co-founded **Voyaige** — an AI agency where I own everything AI and backend. Alfred handles the gadgets. I handle the models.
 
-Outside of code — cricket, chess, and writing poetry that hits harder than most ML models I've trained.
+No cape. No car. But my FastAPI response times are pretty heroic.
+
+Outside the cave — cricket, chess, writing poetry that hits harder than most loss functions I've optimised, and an unhealthy relationship with debugging at 2am.
 
 ```python
 burhan = {
-    "building"    : "Voyaige — AI Agents, Automation & Web Platforms",
-    "good_at"     : ["ML pipelines", "LLM products", "FastAPI backends", "breaking prod at 2am"],
+    "alias"       : "The Dark Dev",
+    "base"        : "Gandhinagar University (final year)",
+    "agency"      : "Voyaige — AI Agents, Automation & Web Platforms",
+    "weapons"     : ["ML pipelines", "LLM products", "FastAPI", "caffeine"],
     "interests"   : ["AI/ML", "NLP", "Agentic systems", "cricket", "chess", "poetry"],
-    "status"      : "Open to AI/ML, Data Science & SWE roles 🚀",
-    "fun_fact"    : "I debug faster when I'm annoyed"
+    "targets"     : ["Bangalore", "Hyderabad", "Dubai (the long game)"],
+    "status"      : "Seeking villains to defeat. Also open to AI/ML roles. 🦇",
+    "weakness"    : "Python version conflicts. Every. Single. Time."
 }
 ```
 
 ---
 
-## what i've built
+## 🦇 The Rogue's Gallery *(aka my projects)*
 
-### 🎯 Talent Intelligence Platform
-Full-stack AI web app for the Indian job market. Built for HR teams and job seekers — bulk JD upload, candidate clustering, resume analysis, salary data.
-
-- **ML:** TF-IDF + Logistic Regression (97% acc), KMeans (K=10), LDA topic modelling, Decision Tree
-- **Stack:** FastAPI + Jinja2, pdfplumber, PyMuPDF, pytesseract (OCR fallback), Adzuna salary API
-- **Shipped:** 9 pkl artifacts, 6-module codebase, deployed on Render
-- Spent more hours fixing Python version conflicts than sleeping. Worth it.
+Even Batman needs a list of enemies he's already handled. Here's mine.
 
 ---
 
-### 🍽️ SafeFoodonPlate — Telegram Food Safety Bot
-AI food safety assistant that actually knows the difference between Jain and vegetarian (yes, it matters).
+### 🎯 Talent Intelligence Platform *(The Capstone Gotham Deserved)*
+Full-stack AI web app for the Indian job market. HR teams get bulk JD upload + candidate clustering. Job seekers get resume analysis + salary data. Everyone gets value.
+
+- **ML:** TF-IDF + Logistic Regression (97% acc), KMeans (K=10), LDA topic modelling, Decision Tree classifier
+- **Stack:** FastAPI + Jinja2, pdfplumber, PyMuPDF, pytesseract (OCR fallback), Adzuna salary API
+- **Shipped:** 9 pkl artifacts, clean 6-module codebase, deployed on Render
+- Spent more time fighting Python 3.14 than the Joker. Python won the first round. I won the war.
+
+---
+
+### 🍽️ SafeFoodonPlate — Telegram Food Safety Bot *(The Protector of Plates)*
+AI food safety assistant that actually knows the difference between Jain and vegetarian. Gotham has criminals. India has mislabelled menus. I fight both.
 
 - **Stack:** Python, python-telegram-bot, Groq API (Llama 3.3 70B), SQLite
-- Permanent user profiles, 9 allergen tracking, Indian diet modes (Jain, vegan, diabetic, etc.)
-- Menu scan, safe dish suggestions, feedback loop
-- Deployed on Render as a Background Worker
+- Permanent user profiles, 9 allergen tracking, Indian diet modes (Jain, vegan, diabetic + more)
+- Menu scan, safe dish suggestions, user feedback system
+- Deployed on Render as Background Worker. No sidekick needed.
 
 ---
 
-### 🤖 Dual AI Assistant Comparison *(built for a job application — they didn't deserve it)*
-Side-by-side eval of HuggingFace (Qwen2.5) vs Claude Sonnet. Multi-turn memory, LLM-as-judge scoring, 30-prompt eval suite across factual / adversarial / bias categories.
-
-Stack: Gradio + HuggingFace Serverless Inference API. Built it in one go.
+### 📊 AI Insight Hub *(The Oracle of Sales Data)*
+FastAPI platform that takes raw sales data and returns ML insights + forecasts. Upload CSV → get intelligence. Bruce Wayne has Lucius Fox. You have this.
 
 ---
 
-## stack
+### 🛒 Customer Segmentation *(KMeans, Not Batarangs)*
+Unsupervised ML project. Full EDA, KMeans clustering, clean cluster profiling. Sometimes the best weapon is knowing exactly who you're dealing with.
+
+---
+
+### ✈️ Flight Price Prediction *(Because Even Batman Needs to Travel)*
+Benchmarked 4 ML algorithms for airfare prediction. Why guess when you can model. Spoiler: one algorithm won. It wasn't the fancy one.
+
+---
+
+### 🤖 Dual AI Assistant Comparison *(The Clash of the AIs)*
+Built for a job application. HuggingFace (Qwen2.5) vs Claude Sonnet — multi-turn memory, LLM-as-judge scoring, 30-prompt eval suite across factual / adversarial / bias categories.
+
+They got a Gradio app with a full evaluation framework. Most people send a CV. I sent this.
+*(They still didn't deserve it.)*
+
+---
+
+## 🛠️ The Utility Belt
 
 **ML / AI**
 
@@ -83,54 +116,62 @@ Stack: Gradio + HuggingFace Serverless Inference API. Built it in one go.
 
 ---
 
-## ml breakdown
+## 📋 Mission Dossier *(ML Breakdown)*
 
-| Area | What I actually know |
+| Sector | Arsenal |
 |---|---|
 | **Supervised** | Logistic & Linear Regression, SVM, Decision Trees, Random Forest, XGBoost, LightGBM, cross-validation |
 | **Unsupervised** | KMeans, PCA, DBSCAN, Hierarchical Clustering, Anomaly Detection |
 | **NLP** | TF-IDF, BOW, Word2Vec, Gensim, LDA Topic Modelling, Sentiment Analysis |
-| **LLM Engineering** | Prompt engineering, Groq/OpenAI API, RAG, LLM-as-judge eval pipelines |
-| **MLOps** | Model serialisation, Render deployment, FastAPI serving, pkl versioning |
-| **SQL** | Joins, aggregations, window functions, LeetCode Top 50 |
+| **LLM Ops** | Prompt engineering, Groq/OpenAI API, RAG, LLM-as-judge eval pipelines |
+| **Deployment** | Model serialisation, Render, FastAPI serving, pkl versioning |
+| **SQL** | Joins, aggregations, window functions — LeetCode Top 50 cleared |
 
 ---
 
-## research
+## 📄 The Research Files *(Classified)*
 
 **Domain-Differential Model Collapse**
 
-Wrote a paper proposing the **Generational Contamination Protocol (GCP)**, **Collapse Rate Index (CRI)**, and **Synthetic Provenance Score (SPS)** — a framework for tracking AI model degradation when trained on synthetic data loops.
+Proposed the **Generational Contamination Protocol (GCP)**, **Collapse Rate Index (CRI)**, and **Synthetic Provenance Score (SPS)** — a framework for tracking AI model degradation in synthetic-data training loops.
 
-Most people haven't thought about this problem properly yet. I have.
+Batman keeps files on everyone in the Justice League. I keep files on how AI eats itself.
+
+Most people haven't seriously thought about this problem yet. I have. The paper is coming.
 
 > Cites: Shumailov et al. (Nature 2024), Gerstgrasser et al. (COLM 2024), Schaeffer et al. (arXiv 2025)
 
 ---
 
-## voyaige
+## 🦇 Voyaige — The Agency
 
-I co-founded **Voyaige** — an AI agency. We build:
+Wayne Enterprises funds the mission. Voyaige is mine.
+
+I co-founded **[Voyaige](https://thevoyaige.com)** — an AI agency building:
 
 - 🤖 **AI Agents** — LLM-powered agents for real business workflows
-- ⚡ **Automation Pipelines** — end-to-end process automation
+- ⚡ **Automation Pipelines** — end-to-end process automation that actually works
 - 🌐 **Web Platforms** — AI-integrated full-stack products
 
-Six real case studies. Real clients. If you need AI built, you know where to find me.
+Six real case studies. Real deployments. No demo theatre.
 
-**[thevoyaige.com](https://thevoyaige.com)**
-
----
-
-## a side of me you didn't ask for
-
-I write poetry. Not the soft kind — the kind that makes you reread the last line twice.  
-I play cricket and chess like I have something to prove.  
-I think the best engineers are the ones who feel things deeply — it's why the work has weight.
+If you need AI built properly, you know where to find me. *(Hint: not the Batphone.)*
 
 ---
 
-## stats
+## 🌙 The Human Behind the Mask
+
+I write poetry. Not the soft kind — the kind that makes you reread the last line twice and feel something you weren't ready for.
+
+I watch cricket like it's a second religion and play chess like I have something to prove — because I do.
+
+The best engineers feel things deeply. It's why the work has weight.
+
+*Even Batman had Alfred. I have dark roast coffee and Stack Overflow.*
+
+---
+
+## 📊 The Bat-Stats
 
 <div align="center">
 
@@ -143,10 +184,22 @@ I think the best engineers are the ones who feel things deeply — it's why the 
 
 </div>
 
+---
+
+## 🎯 Next Mission Briefing
+
+- [ ] Voyaige's first paying client
+- [ ] LangChain → LangGraph → full agentic systems
+- [ ] AI/ML role — Bangalore / Hyderabad / Dubai
+- [ ] Publish the model collapse paper
+- [ ] Keep shipping. Keep writing. Stay dark. 🦇
+
+---
+
 <div align="center">
 
-*"Build things that think. Feel things that matter."*
+*"I'm not the hero this README deserves. But I'm the one it needs right now."*
 
-**[LinkedIn](https://www.linkedin.com/in/burhan-contractor-0b6686258/) · [Voyaige](https://thevoyaige.com) · [GitHub](https://github.com/BuRhAn5352)**
+**[LinkedIn](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/) · [Voyaige](https://thevoyaige.com) · [GitHub](https://github.com/BuRhAn5352)**
 
 </div>
