@@ -14,15 +14,13 @@
 
 ---
 
-## 🦇 The Origin Story
+## who i am
 
-Every Batman needs a cave. Mine has a laptop and way too many open tabs.
+I build ML systems and LLM-powered products. I co-founded **Voyaige** — an AI agency where I own everything AI and backend.
 
-I build AI/ML systems, ship LLM-powered products, and co-founded **Voyaige** — an AI agency where I own everything AI and backend. Alfred handles the gadgets. I handle the models.
+Not much else to say. The work speaks.
 
-No cape. No car. But my FastAPI response times are pretty heroic.
-
-Outside the cave — cricket, chess, writing poetry that hits harder than most loss functions I've optimised, and an unhealthy relationship with debugging at 2am.
+Outside of code — cricket, chess, and writing poetry that hits harder than most loss functions I've optimised.
 
 ```python
 burhan = {
@@ -30,48 +28,44 @@ burhan = {
     "agency"      : "Voyaige — AI Agents, Automation & Web Platforms",
     "weapons"     : ["ML pipelines", "LLM products", "FastAPI", "caffeine"],
     "interests"   : ["AI/ML", "NLP", "Agentic systems", "cricket", "chess", "poetry"],
-    "status"      : "Seeking villains to defeat. Also open to AI/ML roles. 🦇",
+    "status"      : "Open to AI/ML roles. Also open to defeating villains. 🦇",
     "weakness"    : "Python version conflicts. Every. Single. Time."
 }
 ```
 
 ---
 
-## 🦇 The Rogue's Gallery
+## what i've built
 
-Even Batman needs a list of enemies he's already handled. Here's mine.
-
----
-
-### 🎯 Talent Intelligence Platform *(The Capstone Gotham Deserved)*
-Full-stack AI web app for the Indian job market. HR teams get bulk JD upload + candidate clustering. Job seekers get resume analysis + salary data. Everyone gets value.
+### 🎯 Talent Intelligence Platform *(Capstone)*
+Full-stack AI web app for the Indian job market. HR teams get bulk JD upload + candidate clustering. Job seekers get resume analysis + salary data.
 
 - **ML:** TF-IDF + Logistic Regression (97% acc), KMeans (K=10), LDA topic modelling, Decision Tree classifier
 - **Stack:** FastAPI + Jinja2, pdfplumber, PyMuPDF, pytesseract (OCR fallback), Adzuna salary API
-- **Shipped:** 9 pkl artifacts, clean 6-module codebase, deployed on Render
-- Spent more time fighting Python 3.14 than the Joker. Python won the first round. I won the war.
+- **Shipped:** 9 pkl artifacts, 6-module codebase, deployed on Render
+- Spent more time fighting Python 3.14 than any actual problem. Won eventually.
 
 ---
 
-### 🍽️ SafeFoodonPlate — Telegram Food Safety Bot *(The Protector of Plates)*
-AI food safety assistant that actually knows the difference between Jain and vegetarian. Gotham has criminals. India has mislabelled menus. I fight both.
+### 🍽️ SafeFoodonPlate — Telegram Food Safety Bot
+AI food safety assistant that actually understands Indian dietary needs — Jain rules, allergens, diabetic profiles, the works.
 
 - **Stack:** Python, python-telegram-bot, Groq API (Llama 3.3 70B), SQLite
 - Permanent user profiles, 9 allergen tracking, Indian diet modes (Jain, vegan, diabetic + more)
 - Menu scan, safe dish suggestions, user feedback system
-- Deployed on Render as Background Worker. No sidekick needed.
+- Deployed on Render as Background Worker
 
 ---
 
-### 🤖 Dual AI Assistant Comparison *(The Clash of the AIs)*
-Built for a job application. HuggingFace (Qwen2.5) vs Claude Sonnet — multi-turn memory, LLM-as-judge scoring, 30-prompt eval suite across factual / adversarial / bias categories.
+### 🤖 Dual AI Assistant Comparison
+HuggingFace (Qwen2.5) vs Claude Sonnet — multi-turn memory, LLM-as-judge scoring, 30-prompt eval suite across factual / adversarial / bias categories.
 
-They got a Gradio app with a full evaluation framework. Most people send a CV. I sent this.
+Most people send a CV to job applications. I sent a full evaluation framework.
 *(They still didn't deserve it.)*
 
 ---
 
-## 🛠️ The Utility Belt
+## 🛠️ the utility belt
 
 **ML / AI**
 
@@ -99,7 +93,7 @@ They got a Gradio app with a full evaluation framework. Most people send a CV. I
 
 ---
 
-## 📋 Mission Dossier *(ML Breakdown)*
+## 📋 mission dossier
 
 | Sector | Arsenal |
 |---|---|
@@ -112,23 +106,21 @@ They got a Gradio app with a full evaluation framework. Most people send a CV. I
 
 ---
 
-## 📄 The Research Files *(Classified)*
+## 📄 Research Paper
 
 **Domain-Differential Model Collapse**
 
 Proposed the **Generational Contamination Protocol (GCP)**, **Collapse Rate Index (CRI)**, and **Synthetic Provenance Score (SPS)** — a framework for tracking AI model degradation in synthetic-data training loops.
 
-Batman keeps files on everyone in the Justice League. I keep files on how AI eats itself.
+I keep files on how AI eats itself. Most people haven't thought seriously about this problem yet.
 
-Most people haven't seriously thought about this problem yet. I have. The paper is coming.
+The paper is coming.
 
 > Cites: Shumailov et al. (Nature 2024), Gerstgrasser et al. (COLM 2024), Schaeffer et al. (arXiv 2025)
 
 ---
 
-## 🦇 Voyaige — The Agency
-
-Wayne Enterprises funds the mission. Voyaige is mine.
+## 🦇 Voyaige
 
 I co-founded **[Voyaige](https://thevoyaige.com)** — an AI agency building:
 
@@ -138,23 +130,21 @@ I co-founded **[Voyaige](https://thevoyaige.com)** — an AI agency building:
 
 Six real case studies. Real deployments. No demo theatre.
 
-If you need AI built properly, you know where to find me. *(Hint: not the Batphone.)*
+If you need AI built properly — you know where to find me.
 
 ---
 
-## 🌙 The Human Behind the Mask
+## 🌙 off the clock
 
-I write poetry. Not the soft kind — the kind that makes you reread the last line twice and feel something you weren't ready for.
+I write poetry. Not the soft kind — the kind that makes you reread the last line twice.
 
-I play cricket and chess like I have something to prove — because I do.
+Cricket and chess. Always.
 
 The best engineers feel things deeply. It's why the work has weight.
 
-*Even Batman had Alfred. I have dark roast coffee and Stack Overflow.*
-
 ---
 
-## 📊 The Bat-Stats
+## 📊 bat-stats
 
 <div align="center">
 
@@ -167,7 +157,11 @@ The best engineers feel things deeply. It's why the work has weight.
 
 </div>
 
+---
+
 <div align="center">
+
+*"I'm not the hero this README deserves. But I'm the one it needs right now."*
 
 **[LinkedIn](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/) · [Voyaige](https://thevoyaige.com) · [GitHub](https://github.com/BuRhAn5352)**
 
