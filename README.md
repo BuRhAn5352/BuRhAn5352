@@ -6,8 +6,8 @@
 
 > *"It's not who I am underneath, but what I deploy that defines me."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BuRhAn5352)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhan-contractor-0b6686258/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/burhahaan)
 [![Voyaige](https://img.shields.io/badge/Voyaige-Agency-6E40C9?style=for-the-badge&logoColor=white)](https://thevoyaige.com)
 
 </div>
@@ -161,6 +161,6 @@ I think the best engineers feel things deeply. Makes the work mean something.
 
 *"I'm not the hero this README deserves. But I'm the one it needs right now."*
 
-**[LinkedIn](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/) · [Voyaige](https://thevoyaige.com) · [GitHub](https://github.com/BuRhAn5352)**
+**[LinkedIn](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/) · [Voyaige](https://thevoyaige.com) · [X](https://x.com/burhahaan)**
 
 </div>
