@@ -8,7 +8,7 @@
 
 ## who am i
 
-CS final year. I build ML systems, ship LLM-powered products, and co-founded an AI agency called **Voyaige** — where I own everything AI and backend.
+I build AI/ML systems, ship LLM-powered products, and co-founded an AI agency called **Voyaige** — where I own everything AI and backend.
 
 Not just notebooks. Things that actually run in production.
 
@@ -50,16 +50,6 @@ AI food safety assistant that actually knows the difference between Jain and veg
 
 ### 📊 AI Insight Hub
 FastAPI platform that takes raw sales data and spits out ML insights + forecasts. Upload CSV, get intelligence.
-
----
-
-### 🛒 Customer Segmentation — Unsupervised ML
-KMeans-based segmentation with full EDA and cluster profiling. Clean work, clean code.
-
----
-
-### ✈️ Flight Price Prediction
-Benchmarked 4 ML algorithms head-to-head for airfare prediction. Because why guess when you can model.
 
 ---
 
@@ -140,7 +130,7 @@ Six real case studies. Real clients. If you need AI built, you know where to fin
 ## a side of me you didn't ask for
 
 I write poetry. Not the soft kind — the kind that makes you reread the last line twice.  
-I watch cricket like it's religion and play chess like I have something to prove.  
+I play cricket and chess like I have something to prove.  
 I think the best engineers are the ones who feel things deeply — it's why the work has weight.
 
 ---
@@ -157,18 +147,6 @@ I think the best engineers are the ones who feel things deeply — it's why the 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BuRhAn5352&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## what's next
-
-- [ ] Voyaige's first paying client
-- [ ] LangChain → LangGraph → full agentic systems
-- [ ] AI/ML role — Bangalore / Hyderabad / Dubai
-- [ ] Publish the model collapse paper
-- [ ] Keep shipping. keep writing.
-
----
 
 <div align="center">
 
