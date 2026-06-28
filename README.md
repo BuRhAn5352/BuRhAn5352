@@ -1,71 +1,75 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=I'm+Burhan.;I+don't+have+a+Batcave.;I+have+a+GitHub.;Close+enough." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=C0392B&center=true&vCenter=true&width=750&lines=I+am+Burhan.;Empires+aren't+built+in+a+day.;Mine+is+being+compiled.;SPQB+%E2%80%94+Senatus+Populusque+Burhanus." alt="Typing SVG" />
 
 <br/>
 
-> *"It's not who I am underneath, but what I deploy that defines me."*
+> *"Veni. Vidi. Deploy-i."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhan-contractor-0b6686258/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/burhahaan)
-[![Voyaige](https://img.shields.io/badge/Voyaige-6E40C9?style=for-the-badge&logoColor=white)](https://thevoyaige.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/)
+[![X](https://img.shields.io/badge/@burhahaan-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/burhahaan)
+[![Voyaige](https://img.shields.io/badge/Voyaige-C0392B?style=for-the-badge&logoColor=white)](https://thevoyaige.com)
 
 </div>
 
 ---
 
-## who i am
+## ⚔️ The Senate Record
 
-I build ML systems and LLM-powered products. I co-founded **Voyaige** - an AI agency where I own everything AI and backend.
+I build ML systems and LLM-powered products. I co-founded **Voyaige** — an AI agency where I own everything AI and backend.
 
-The work speaks for itself. I just make sure it's worth listening to.
+Rome wasn't built in a day. My codebase wasn't either. But both are still standing.
 
-Outside of code - cricket, chess, and writing poetry that hits harder than most loss functions I've optimised.
+Outside the forum — cricket, chess, and writing poetry that hits harder than most loss functions I've optimised.
 
 ```python
 burhan = {
-    "alias"       : "The Dark Dev",
-    "agency"      : "Voyaige — AI Agents, Automation & Web Platforms",
+    "title"       : "Imperator of AI & Backend",
+    "legion"      : "Voyaige — AI Agents, Automation & Web Platforms",
     "weapons"     : ["ML pipelines", "LLM products", "FastAPI", "caffeine"],
     "interests"   : ["AI/ML", "NLP", "Agentic systems", "cricket", "chess", "poetry"],
-    "status"      : "Open to AI/ML roles. Also open to defeating villains. 🦇",
-    "weakness"    : "Python version conflicts. Every. Single. Time."
+    "status"      : "Expanding the empire. Also open to AI/ML roles. ⚔️",
+    "weakness"    : "Python version conflicts. Even Caesar had his Ides of March."
 }
 ```
 
 ---
 
-## what i've built
+## 🏛️ Conquests
 
-### 🎯 Talent Intelligence Platform 
+Every empire has its battles. Here are mine — fought, won, deployed.
+
+---
+
+### 🎯 Talent Intelligence Platform *(The Capstone Campaign)*
 Full-stack AI web app for the Indian job market. HR teams get bulk JD upload + candidate clustering. Job seekers get resume analysis + salary data.
 
 - **ML:** TF-IDF + Logistic Regression (97% acc), KMeans (K=10), LDA topic modelling, Decision Tree classifier
 - **Stack:** FastAPI + Jinja2, pdfplumber, PyMuPDF, pytesseract (OCR fallback), Adzuna salary API
 - **Shipped:** 9 pkl artifacts, 6-module codebase, deployed on Render
-- Spent more time fighting Python 3.14 than any actual problem. Won eventually.
+- Spent more time fighting Python 3.14 than any actual enemy. The empire prevailed.
 
 ---
 
-### 🍽️ SafeFoodonPlate - Telegram Food Safety Bot
+### 🍽️ SafeFoodonPlate — Telegram Food Safety Bot
 AI food safety assistant that actually understands Indian dietary needs — Jain rules, allergens, diabetic profiles, the works.
 
 - **Stack:** Python, python-telegram-bot, Groq API (Llama 3.3 70B), SQLite
 - Permanent user profiles, 9 allergen tracking, Indian diet modes (Jain, vegan, diabetic + more)
 - Menu scan, safe dish suggestions, user feedback system
-- Deployed on Render as Background Worker
+- Deployed on Render as Background Worker. No legion required.
 
 ---
 
 ### 🤖 Dual AI Assistant Comparison
-HuggingFace (Qwen2.5) vs Claude Sonnet - multi-turn memory, LLM-as-judge scoring, 30-prompt eval suite across factual / adversarial / bias categories.
+HuggingFace (Qwen2.5) vs Claude Sonnet — multi-turn memory, LLM-as-judge scoring, 30-prompt eval suite across factual / adversarial / bias categories.
 
 Most people send a CV to job applications. I sent a full evaluation framework.
 *(They still didn't deserve it.)*
 
 ---
 
-## 🛠️ the utility belt
+## 🛡️ The Arsenal
 
 **ML / AI**
 
@@ -81,7 +85,7 @@ Most people send a CV to job applications. I sent a full evaluation framework.
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-API-orange?style=flat-square)
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude-6E40C9?style=flat-square)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-C0392B?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Backend & Infra**
@@ -93,9 +97,9 @@ Most people send a CV to job applications. I sent a full evaluation framework.
 
 ---
 
-## 📋 mission dossier
+## 📜 The War Scrolls *(ML Breakdown)*
 
-| Sector | Arsenal |
+| Domain | Weapons Mastered |
 |---|---|
 | **Supervised** | Logistic & Linear Regression, SVM, Decision Trees, Random Forest, XGBoost, LightGBM, cross-validation |
 | **Unsupervised** | KMeans, PCA, DBSCAN, Hierarchical Clustering, Anomaly Detection |
@@ -106,43 +110,45 @@ Most people send a CV to job applications. I sent a full evaluation framework.
 
 ---
 
-## 📄 Research Paper
+## 📰 The Codex *(Research)*
 
 **Domain-Differential Model Collapse**
 
 Proposed the **Generational Contamination Protocol (GCP)**, **Collapse Rate Index (CRI)**, and **Synthetic Provenance Score (SPS)** — a framework for tracking AI model degradation in synthetic-data training loops.
 
-I keep files on how AI eats itself. Most people haven't thought seriously about this problem yet.
+Rome kept records of everything. I keep records of how AI eats itself.
 
-Published in IRJMETS (International Research Journal of Modernization in Engineering Technology and Science) — Volume 08, Issue 05, May 2026.
+Published in **IRJMETS** — Volume 08, Issue 05, May 2026. Impact Factor: 8.187. Peer-reviewed, open access.
+
 > Cites: Shumailov et al. (Nature 2024), Gerstgrasser et al. (COLM 2024), Schaeffer et al. (arXiv 2025)
 
 ---
 
-## 🦇 Voyaige
+## 🏺 Voyaige — The Empire
 
-I co-founded **[Voyaige](https://thevoyaige.com)** - an AI agency building:
+I co-founded **[Voyaige](https://thevoyaige.com)** — an AI agency building:
 
-- 🤖 **AI Agents** - LLM-powered agents for real business workflows
-- ⚡ **Automation Pipelines** - end-to-end process automation that actually works
-- 🌐 **Web Platforms** - AI-integrated full-stack products
+- 🤖 **AI Agents** — LLM-powered agents for real business workflows
+- ⚡ **Automation Pipelines** — end-to-end process automation that actually works
+- 🌐 **Web Platforms** — AI-integrated full-stack products
 
 Six real case studies. Real deployments. No demo theatre.
 
-If you need AI built properly - you know where to find me.
+All roads lead to Rome. If you need AI built properly — this is Rome.
 
 ---
 
-## 🌙 off the clock
+## 🌙 Off the Clock
 
-I write poetry. Not the soft kind — the kind that makes you reread the last line twice.
+I write poetry. Not the soft kind — the kind that makes you reread the last line twice and feel something you weren't ready for.
 
 Cricket and chess. Always.
 
 I think the best engineers feel things deeply. Makes the work mean something.
+
 ---
 
-## 📊 bat-stats
+## 📊 The Census
 
 <div align="center">
 
@@ -159,7 +165,7 @@ I think the best engineers feel things deeply. Makes the work mean something.
 
 <div align="center">
 
-*"I'm not the hero this README deserves. But I'm the one it needs right now."*
+*"The empire is still being built. Check back when it's done — or better yet, help build it."*
 
 **[LinkedIn](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/) · [Voyaige](https://thevoyaige.com) · [X](https://x.com/burhahaan)**
 
