@@ -51,7 +51,7 @@ Full-stack AI web app for the Indian job market. HR teams get bulk JD upload + c
 ---
 
 ### 🍽️ SafeFoodonPlate - Telegram Food Safety Bot
-AI food safety assistant that actually understands Indian dietary needs — Jain rules, allergens, diabetic profiles, the works.
+AI food safety assistant that actually understands Indian dietary needs - Jain rules, allergens, diabetic profiles, the works.
 
 - **Stack:** Python, python-telegram-bot, Groq API (Llama 3.3 70B), SQLite
 - Permanent user profiles, 9 allergen tracking, Indian diet modes (Jain, vegan, diabetic + more)
