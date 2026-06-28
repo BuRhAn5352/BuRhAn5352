@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=C0392B&center=true&vCenter=true&width=750&lines=I+am+Burhan.;Empires+aren't+built+in+a+day.;Mine+is+being+compiled.;SPQB+%E2%80%94+Senatus+Populusque+Burhanus." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=C0392B&center=true&vCenter=true&width=750&lines=I+am+Burhan.;Empires+aren't+built+in+a+day.;Mine+is+being+compiled." alt="Typing SVG" />
 
 <br/>
 
@@ -16,20 +16,19 @@
 
 ## ⚔️ The Senate Record
 
-I build ML systems and LLM-powered products. I co-founded **Voyaige** — an AI agency where I own everything AI and backend.
+I build ML systems and LLM-powered products. I co-founded **Voyaige** - an AI agency where I own everything AI and backend.
 
 Rome wasn't built in a day. My codebase wasn't either. But both are still standing.
 
-Outside the forum — cricket, chess, and writing poetry that hits harder than most loss functions I've optimised.
+Outside the forum - cricket, chess, and writing poetry that hits harder than most loss functions I've optimised.
 
 ```python
 burhan = {
-    "title"       : "Imperator of AI & Backend",
-    "legion"      : "Voyaige — AI Agents, Automation & Web Platforms",
+    "title"       : "burhanacus",
+    "legion"      : "Voyaige - AI Agents, Automation & Web Platforms",
     "weapons"     : ["ML pipelines", "LLM products", "FastAPI", "caffeine"],
     "interests"   : ["AI/ML", "NLP", "Agentic systems", "cricket", "chess", "poetry"],
     "status"      : "Expanding the empire. Also open to AI/ML roles. ⚔️",
-    "weakness"    : "Python version conflicts. Even Caesar had his Ides of March."
 }
 ```
 
@@ -37,11 +36,11 @@ burhan = {
 
 ## 🏛️ Conquests
 
-Every empire has its battles. Here are mine — fought, won, deployed.
+Every empire has its battles.
 
 ---
 
-### 🎯 Talent Intelligence Platform *(The Capstone Campaign)*
+### 🎯 Talent Intelligence Platform 
 Full-stack AI web app for the Indian job market. HR teams get bulk JD upload + candidate clustering. Job seekers get resume analysis + salary data.
 
 - **ML:** TF-IDF + Logistic Regression (97% acc), KMeans (K=10), LDA topic modelling, Decision Tree classifier
@@ -51,7 +50,7 @@ Full-stack AI web app for the Indian job market. HR teams get bulk JD upload + c
 
 ---
 
-### 🍽️ SafeFoodonPlate — Telegram Food Safety Bot
+### 🍽️ SafeFoodonPlate - Telegram Food Safety Bot
 AI food safety assistant that actually understands Indian dietary needs — Jain rules, allergens, diabetic profiles, the works.
 
 - **Stack:** Python, python-telegram-bot, Groq API (Llama 3.3 70B), SQLite
@@ -62,7 +61,7 @@ AI food safety assistant that actually understands Indian dietary needs — Jain
 ---
 
 ### 🤖 Dual AI Assistant Comparison
-HuggingFace (Qwen2.5) vs Claude Sonnet — multi-turn memory, LLM-as-judge scoring, 30-prompt eval suite across factual / adversarial / bias categories.
+HuggingFace (Qwen2.5) vs Claude Sonnet - multi-turn memory, LLM-as-judge scoring, 30-prompt eval suite across factual / adversarial / bias categories.
 
 Most people send a CV to job applications. I sent a full evaluation framework.
 *(They still didn't deserve it.)*
@@ -79,7 +78,11 @@ Most people send a CV to job applications. I sent a full evaluation framework.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Gensim](https://img.shields.io/badge/Gensim-NLP-4B8BBE?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6E40C9?style=flat-square&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-2C3E50?style=flat-square&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **LLMs & APIs**
 
@@ -94,6 +97,7 @@ Most people send a CV to job applications. I sent a full evaluation framework.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
 
@@ -106,7 +110,9 @@ Most people send a CV to job applications. I sent a full evaluation framework.
 | **NLP** | TF-IDF, BOW, Word2Vec, Gensim, LDA Topic Modelling, Sentiment Analysis |
 | **LLM Ops** | Prompt engineering, Groq/OpenAI API, RAG, LLM-as-judge eval pipelines |
 | **Deployment** | Model serialisation, Render, FastAPI serving, pkl versioning |
-| **SQL** | Joins, aggregations, window functions — LeetCode Top 50 cleared |
+| **SQL** | Joins, aggregations, window functions - LeetCode Top 50 cleared |
+| **Deep Learning & GenAI** | Neural Networks, Transformers, LangChain, LangGraph, Generative AI, fine-tuning basics |
+| **DSA** | Arrays, Trees, Graphs, DP, Sliding Window, Two Pointers - Python & Java |
 
 ---
 
@@ -140,7 +146,7 @@ All roads lead to Rome. If you need AI built properly — this is Rome.
 
 ## 🌙 Off the Clock
 
-I write poetry. Not the soft kind — the kind that makes you reread the last line twice and feel something you weren't ready for.
+I write poetry. Not the soft kind - the kind that makes you reread the last line twice and feel something you weren't ready for.
 
 Cricket and chess. Always.
 
@@ -165,7 +171,7 @@ I think the best engineers feel things deeply. Makes the work mean something.
 
 <div align="center">
 
-*"The empire is still being built. Check back when it's done — or better yet, help build it."*
+*"The empire is still being built. Check back when it's done or better yet, help build it."*
 
 **[LinkedIn](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/) · [Voyaige](https://thevoyaige.com) · [X](https://x.com/burhahaan)**
 
