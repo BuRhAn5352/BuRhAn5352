@@ -130,7 +130,7 @@ Published in **IRJMETS** — Volume 08, Issue 05, May 2026. Impact Factor: 8.187
 
 ---
 
-## 🏺 Voyaige — The Empire
+## 🏺 Voyaige - The Empire
 
 I co-founded **[Voyaige](https://thevoyaige.com)** — an AI agency building:
 
