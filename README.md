@@ -132,15 +132,15 @@ Published in **IRJMETS** — Volume 08, Issue 05, May 2026. Impact Factor: 8.187
 
 ## 🏺 Voyaige - The Empire
 
-I co-founded **[Voyaige](https://thevoyaige.com)** — an AI agency building:
+I co-founded **[Voyaige](https://thevoyaige.com)** - an AI agency building:
 
-- 🤖 **AI Agents** — LLM-powered agents for real business workflows
-- ⚡ **Automation Pipelines** — end-to-end process automation that actually works
-- 🌐 **Web Platforms** — AI-integrated full-stack products
+- 🤖 **AI Agents** - LLM-powered agents for real business workflows
+- ⚡ **Automation Pipelines** - end-to-end process automation that actually works
+- 🌐 **Web Platforms** - AI-integrated full-stack products
 
 Six real case studies. Real deployments. No demo theatre.
 
-All roads lead to Rome. If you need AI built properly — this is Rome.
+All roads lead to Rome. If you need AI built properly - this is Rome.
 
 ---
 
