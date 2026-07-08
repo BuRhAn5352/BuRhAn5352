@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/burhahaan)
-[![Voyaige](https://img.shields.io/badge/Voyaige-C0392B?style=for-the-badge&logoColor=white)](https://thevoyaige.com)
+[![Voyaige](https://img.shields.io/badge/Voyaige-C0392B?style=for-the-badge&logoColor=white)](https://thevoyaige.in)
 
 </div>
 
