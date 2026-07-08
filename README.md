@@ -7,7 +7,7 @@
 > *"Veni. Vidi. Deploy-i."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/burhahaan)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/burhanacxs)
 [![Voyaige](https://img.shields.io/badge/Voyaige-C0392B?style=for-the-badge&logoColor=white)](https://thevoyaige.in)
 
 </div>
@@ -173,6 +173,6 @@ I think the best engineers feel things deeply. Makes the work mean something.
 
 *"The empire is still being built. Check back when it's done or better yet, help build it."*
 
-**[LinkedIn](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/) · [Voyaige](https://thevoyaige.com) · [X](https://x.com/burhahaan)**
+**[LinkedIn](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/) · [Voyaige](https://thevoyaige.in) · [X](https://x.com/burhanacxs)**
 
 </div>
