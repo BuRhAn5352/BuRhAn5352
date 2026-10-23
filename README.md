@@ -1,169 +1,184 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=C0392B&center=true&vCenter=true&width=750&lines=I+am+Burhan.;Empires+aren't+built+in+a+day.;Mine+is+being+compiled." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:301014,100:8B1E2D&height=200&section=header&text=BURHANUDDIN%20CONTRACTOR&fontSize=30&fontColor=E8DCC4&fontAlignY=38&desc=AI%20ENGINEERING%20%2F%20MACHINE%20LEARNING%20%2F%20BUILDING&descSize=12&descAlignY=58&descColor=C9A66B" width="100%" alt="Burhanuddin Contractor — AI Engineering and Machine Learning"/>
 
 <br/>
 
-> *"Veni. Vidi. Deploy-i."*
+<a href="https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=C9A66B" alt="LinkedIn"/></a>
+<a href="https://x.com/burhanacxs"><img src="https://img.shields.io/badge/X-Follow-0D1117?style=for-the-badge&logo=x&logoColor=C9A66B" alt="X"/></a>
+<a href="https://thevoyaige.in"><img src="https://img.shields.io/badge/Voyaige-Explore-0D1117?style=for-the-badge&logoColor=C9A66B" alt="Voyaige"/></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/burhanacxs)
-[![Voyaige](https://img.shields.io/badge/Voyaige-C0392B?style=for-the-badge&logoColor=white)](https://thevoyaige.in)
+<br/><br/>
+
+*Building intelligent systems. Understanding them deeply. Making them useful.*
 
 </div>
 
 ---
 
-## ⚔️ The Senate Record
+## About
 
-I build ML systems and LLM-powered products. I co-founded **Voyaige** - an AI agency where I own everything AI and backend.
+I'm Burhanuddin, an AI/ML developer and co-founder of **[Voyaige](https://thevoyaige.in)**, an AI agency focused on agents, automation, and web platforms.
 
-Rome wasn't built in a day. My codebase wasn't either. But both are still standing.
+My work spans machine learning, natural language processing, LLM-powered applications, and backend development. I'm particularly interested in understanding how AI systems work internally, evaluating their behavior, and engineering applications that hold up beyond a successful demo.
 
-Outside the forum - cricket, chess, and writing poetry that hits harder than most loss functions I've optimised.
-
-```python
-burhan = {
-    "title"       : "burhanacus",
-    "legion"      : "Voyaige - AI Agents, Automation & Web Platforms",
-    "weapons"     : ["ML pipelines", "LLM products", "FastAPI", "caffeine"],
-    "interests"   : ["AI/ML", "NLP", "Agentic systems", "cricket", "chess", "poetry"],
-    "status"      : "Expanding the empire. Also open to AI/ML roles. ⚔️",
-}
-```
+- **Focus:** Applied AI, NLP, LLM applications, backend engineering
+- **Currently improving:** System design, codebase analysis, debugging, and AI evaluation
+- **Research interest:** Synthetic data and model collapse
+- **Beyond code:** Cricket, chess, and poetry
 
 ---
 
-## 🏛️ Conquests
+## Featured Projects
 
-Every empire has its battles.
+<div align="center">
 
----
+### 01 / Talent Intelligence Platform
 
-### 🎯 Talent Intelligence Platform 
-Full-stack AI web app for the Indian job market. HR teams get bulk JD upload + candidate clustering. Job seekers get resume analysis + salary data.
+**AI-powered recruitment and candidate analysis**
 
-- **ML:** TF-IDF + Logistic Regression (97% acc), KMeans (K=10), LDA topic modelling, Decision Tree classifier
-- **Stack:** FastAPI + Jinja2, pdfplumber, PyMuPDF, pytesseract (OCR fallback), Adzuna salary API
-- **Shipped:** 9 pkl artifacts, 6-module codebase, deployed on Render
-- Spent more time fighting Python 3.14 than any actual enemy. The empire prevailed.
+</div>
 
----
+A platform designed for the Indian job market, combining resume analysis, candidate classification, clustering, and salary-related insights.
 
-### 🍽️ SafeFoodonPlate - Telegram Food Safety Bot
-AI food safety assistant that actually understands Indian dietary needs - Jain rules, allergens, diabetic profiles, the works.
-
-- **Stack:** Python, python-telegram-bot, Groq API (Llama 3.3 70B), SQLite
-- Permanent user profiles, 9 allergen tracking, Indian diet modes (Jain, vegan, diabetic + more)
-- Menu scan, safe dish suggestions, user feedback system
-- Deployed on Render as Background Worker. No legion required.
-
----
-
-### 🤖 Dual AI Assistant Comparison
-HuggingFace (Qwen2.5) vs Claude Sonnet - multi-turn memory, LLM-as-judge scoring, 30-prompt eval suite across factual / adversarial / bias categories.
-
-Most people send a CV to job applications. I sent a full evaluation framework.
-*(They still didn't deserve it.)*
-
----
-
-## 🛡️ The Arsenal
-
-**ML / AI**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Gensim](https://img.shields.io/badge/Gensim-NLP-4B8BBE?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-6E40C9?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-2C3E50?style=flat-square&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**LLMs & APIs**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-API-orange?style=flat-square)
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude-C0392B?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Backend & Infra**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
----
-
-## 📜 The War Scrolls *(ML Breakdown)*
-
-| Domain | Weapons Mastered |
+| Component | Implementation |
 |---|---|
-| **Supervised** | Logistic & Linear Regression, SVM, Decision Trees, Random Forest, XGBoost, LightGBM, cross-validation |
-| **Unsupervised** | KMeans, PCA, DBSCAN, Hierarchical Clustering, Anomaly Detection |
-| **NLP** | TF-IDF, BOW, Word2Vec, Gensim, LDA Topic Modelling, Sentiment Analysis |
-| **LLM Ops** | Prompt engineering, Groq/OpenAI API, RAG, LLM-as-judge eval pipelines |
-| **Deployment** | Model serialisation, Render, FastAPI serving, pkl versioning |
-| **SQL** | Joins, aggregations, window functions - LeetCode Top 50 cleared |
-| **Deep Learning & GenAI** | Neural Networks, Transformers, LangChain, LangGraph, Generative AI, fine-tuning basics |
-| **DSA** | Arrays, Trees, Graphs, DP, Sliding Window, Two Pointers - Python & Java |
+| Backend | FastAPI, Jinja2 |
+| Text processing | TF-IDF, PDF/DOCX extraction, OCR fallback |
+| Machine learning | Logistic Regression, KMeans, LDA, Decision Trees |
+| Integrations | Adzuna salary API |
+| Deployment | Render |
+
+**Engineering focus**
+- Processing unstructured resume documents
+- Transforming text into features for ML models
+- Candidate similarity and classification workflows
+- Model serialization and inference
+
+[**Explore repository →**](https://github.com/BuRhAn5352/Talent_intelligence_platform)
 
 ---
-
-## 📰 The Codex *(Research)*
-
-**Domain-Differential Model Collapse**
-
-Proposed the **Generational Contamination Protocol (GCP)**, **Collapse Rate Index (CRI)**, and **Synthetic Provenance Score (SPS)** — a framework for tracking AI model degradation in synthetic-data training loops.
-
-Rome kept records of everything. I keep records of how AI eats itself.
-
-Published in **IRJMETS** — Volume 08, Issue 05, May 2026. Impact Factor: 8.187. Peer-reviewed, open access.
-
-> Cites: Shumailov et al. (Nature 2024), Gerstgrasser et al. (COLM 2024), Schaeffer et al. (arXiv 2025)
-
----
-
-## 🏺 Voyaige - The Empire
-
-I co-founded **[Voyaige](https://thevoyaige.com)** - an AI agency building:
-
-- 🤖 **AI Agents** - LLM-powered agents for real business workflows
-- ⚡ **Automation Pipelines** - end-to-end process automation that actually works
-- 🌐 **Web Platforms** - AI-integrated full-stack products
-
-Six real case studies. Real deployments. No demo theatre.
-
-All roads lead to Rome. If you need AI built properly - this is Rome.
-
----
-
-## 🌙 Off the Clock
-
-I write poetry. Not the soft kind - the kind that makes you reread the last line twice and feel something you weren't ready for.
-
-Cricket and chess. Always.
-
-I think the best engineers feel things deeply. Makes the work mean something.
-
----
-
-## 📊 The Census
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BuRhAn5352&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuRhAn5352&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+### 02 / SafeFoodonPlate
+
+**Conversational AI for food safety and dietary preferences**
+
+</div>
+
+A Telegram assistant designed around Indian dietary needs, with personalized preferences, allergen tracking, menu assistance, and food-related guidance.
+
+**Technology:** Python · Telegram Bot API · Groq · Llama 3.3 70B · SQLite
+
+**Engineering focus**
+- Integrating LLMs into a conversational application
+- Persisting user preferences and application state
+- Handling dietary constraints and user feedback
+- Managing external API responses and failure cases
+
+[**Explore repository →**](https://github.com/BuRhAn5352/SafeFoodonPlate)
+
+---
+
+<div align="center">
+
+### 03 / Dual AI Assistant Comparison
+
+**Evaluating model behavior across controlled scenarios**
+
+</div>
+
+An experimental comparison of Qwen2.5 through Hugging Face and Claude Sonnet, using a 30-prompt evaluation suite.
+
+- Multi-turn conversational memory
+- Factual and adversarial test scenarios
+- Bias-oriented evaluation cases
+- LLM-as-judge scoring
+
+The goal is to examine differences across defined test cases rather than assume that one model is universally better.
+
+[**Browse all repositories →**](https://github.com/BuRhAn5352?tab=repositories)
+
+---
+
+## Technical Stack
+
+<div align="center">
+
+### Machine Learning & Data
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,numpy&theme=dark" alt="Python and machine learning technologies"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/Gensim-4B8BBE?style=flat-square" alt="Gensim"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+
+### LLMs & AI Applications
+
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Anthropic-Claude-C0392B?style=flat-square" alt="Anthropic Claude"/>
+<img src="https://img.shields.io/badge/Groq-API-F55036?style=flat-square" alt="Groq"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-2C3E50?style=flat-square" alt="LangGraph"/>
+
+### Backend & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,sqlite,java&theme=dark" alt="Git, GitHub, Docker, SQLite, Java"/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-Engineering-8B1E2D?style=flat-square" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Render-Deployment-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render"/>
+
+</div>
+
+---
+
+## Research
+
+### Domain-Differential Model Collapse
+
+Research exploring degradation in AI models trained repeatedly on synthetic data.
+
+The work proposes three concepts for analyzing generational contamination and synthetic-data feedback loops:
+
+- **Generational Contamination Protocol (GCP)**
+- **Collapse Rate Index (CRI)**
+- **Synthetic Provenance Score (SPS)**
+
+**Publication:** IRJMETS, Volume 08, Issue 05, May 2026, according to the publication details provided.
+
+[Read the publication](ADD_DIRECT_PAPER_URL_HERE)
+
+---
+
+## Building at Voyaige
+
+**[Voyaige](https://thevoyaige.in)** is an AI agency I co-founded, focused on building practical technology for businesses.
+
+Our work includes:
+
+- AI agents for business workflows
+- End-to-end automation systems
+- AI-integrated web platforms
+
+The focus is on solving concrete problems and building applications that people can actually use.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BuRhAn5352&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9A66B&icon_color=8B1E2D&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuRhAn5352&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9A66B&text_color=C9D1D9" height="165" alt="Most-used programming languages"/>
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BuRhAn5352&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=BuRhAn5352&hide_border=true&background=0D1117&ring=C9A66B&fire=8B1E2D&currStreakLabel=C9A66B&sideLabels=C9D1D9&dates=777777" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -171,8 +186,10 @@ I think the best engineers feel things deeply. Makes the work mean something.
 
 <div align="center">
 
-*"The empire is still being built. Check back when it's done or better yet, help build it."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B1E2D,55:301014,100:0D1117&height=100&section=footer" width="100%" alt="Crimson and dark footer"/>
 
-**[LinkedIn](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/) · [Voyaige](https://thevoyaige.in) · [X](https://x.com/burhanacxs)**
+**Learn continuously. Build deliberately. Understand every layer.**
+
+[LinkedIn](https://www.linkedin.com/in/burhanuddin-contractor-0b6686258/) · [X](https://x.com/burhanacxs) · [Voyaige](https://thevoyaige.in)
 
 </div>
